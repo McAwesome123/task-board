@@ -1,0 +1,19 @@
+{
+  "tasks": [
+    {
+      "id": "b0bd99d2b353a22764aa88f70ac37e9e",
+      "title": "Example",
+      "description": "This one is a simple description of a todo task",
+      "isInProgress": false,
+      "completed": false
+    },
+    {
+      "title": "test12345",
+      "description": "test",
+      "isInProgress": "false",
+      "completed": "false",
+      "id": "a032e987e35528ff636e282f7058a901",
+      "date": "2023-01-12T03:16:18.347Z"
+    }
+  ]
+}
